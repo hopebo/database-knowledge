@@ -23,3 +23,7 @@
 - [MySQL 深潜 - MDL 锁的实现与获取机制](article/MySQL%20MDL%20Architecture/MySQL%20深潜%20-%20MDL%20锁的实现与获取机制.md)
 
 - [MySQL 深潜 - 揭秘窗口函数将子查询解关联](article/Subquery%20Unnesting/MySQL%20深潜%20-%20揭秘窗口函数将子查询解关联.md)
+
+## Note
+
+- [线上长时间处于 Sending to client 查询堵住其他查询现象](note/线上查询长时间处于%20Sending%20to%20client%20场景复现)
