@@ -26,4 +26,4 @@
 
 ## Note
 
-- [线上长时间处于 Sending to client 查询堵住其他查询现象](note/线上查询长时间处于%20Sending%20to%20client%20场景复现)
+- [FLUSH TABLES 命令与 Sending to client 查询堵住所有 DML 现象](note/FLUSH%20TABLES%20命令与%20Sending%20to%20client%20查询堵住所有%20DML%20现象)
