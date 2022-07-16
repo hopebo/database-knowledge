@@ -12,11 +12,11 @@
 
 - 2016, [The Snowflake Elastic Data Warehouse](paper/The%20Snowflake%20Elastic%20Data%20Warehouse), SIGMOD
 
-## Blog
+## Document
 
 ### Architecture
 
-- 2020, [Oracle Database 21c Technical Architecture](blog/Oracle%20Database%2021c%20Architecture), ORACLE
+- 2020, [Oracle Database 21c Technical Architecture](document/Oracle%20Database%2021c%20Architecture), ORACLE
 
 ## Article
 
